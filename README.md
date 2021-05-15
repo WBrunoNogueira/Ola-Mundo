@@ -4,3 +4,5 @@
 Repositorio Inicial.
 
 Adicionado linha via web
+
+Editado no LINUX
