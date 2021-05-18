@@ -42,7 +42,7 @@ num = int(input())
 ```
 ## emoji
 olá 🖖ulcan
-codes de emojis: ![Emojis_codes](https://github.com/ikatyang/emoji-cheat-sheet)
+codes de emojis: !(https://github.com/ikatyang/emoji-cheat-sheet)
 
 ## Imagem
 ![download](https://user-images.githubusercontent.com/19266109/118721614-7ad21b00-b801-11eb-837a-a632c4fe4a12.png)
